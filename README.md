@@ -1,11 +1,11 @@
 
 # MO-RSplbestPSO
 
-## This file contains the guidelines and a detailed description about the execution of the package of the following article
+## This file contains the guidelines and a detailed description about the execution of the package for the following article
 
 **Title of the Article:** Identification of Biomarkers for Arsenicosis Employing Multiple Kernel Learning Embedded Multi Objective Swarm Intelligence
 - **Authors:** Anirban Dey<sup>1</sup> , Student Member, IEEE, Kaushik Das Sharma<sup>1</sup>  , Senior Member, IEEE, Tamalika Sanyal<sup>2</sup>  , Pritha Bhattacharjee<sup>2</sup>  , Pritha Bhattacharjee (Sr.)<sup>2</sup> 
-- **Affiliation:**  <sup>1</sup> Department of Applied Physics, University of Calcutta; <sup>2</sup> Department of Environmental Science, University of Calcutta 
+- **Affiliations:**  <sup>1</sup> Department of Applied Physics, University of Calcutta; <sup>2</sup> Department of Environmental Science, University of Calcutta 
 - **Submitted to:** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
 
 
