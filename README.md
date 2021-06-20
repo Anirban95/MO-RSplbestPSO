@@ -9,16 +9,24 @@
 - **Submitted to:** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
 
 
-## Dependencies
-1 **[Python 3.6+](https://www.python.org/downloads/release/python-2713/)**
+## Requirements:
 
-2 **[sklearn](https://scikit-learn.org/stable/install.html)**
+**1. [Python 3.6+](https://www.python.org/downloads/release/python-2713/)**
 
-3 **[matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
+**2. [Jupyter Notebook](https://jupyter.org/)**
 
-4 **[mpl_toolkits](https://matplotlib.org/2.0.2/mpl_toolkits/index.html)**
+**3. [scikit-learn](https://scikit-learn.org/stable/install.html)**
 
-5 **[numpy 1.10+](https://pypi.org/project/numpy/)**
+**4. [matplotlib 2.0+](https://matplotlib.org/users/installing.html)**
+
+**5. [Numpy 1.10+](https://pypi.org/project/numpy/)**
+
+**6. [Pandas](https://pandas.pydata.org/)**
+
+**7. [Time](https://docs.python.org/3/library/time.html)**
+
+**8. [Pareto](https://pypi.org/project/pareto/)**
+
 
 
 
