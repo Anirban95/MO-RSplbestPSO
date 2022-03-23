@@ -38,7 +38,7 @@
 
 The proposed schema as discussed in the paper is implemented in Python. This repository contains `.ipynb` (Jupyter Notebok) and `.py` (Python) files which contains modules which are further used to develop the entire schema.   
 
-The details instruction for executing the entire package will be published post acceptence of this article or individuals' may send a request mail to the corresponding author at his official [e-mail](mailto:adaphy_rs@caluniv.ac.in); Altough this is strictly for personal use untill not published.  
+The details instruction for executing the entire package will be published post acceptence of this article or individuals' may send a request mail to the corresponding author at his official [e-mail](mailto:kdsaphy@caluniv.ac.in); Altough this is strictly for personal use untill not published.  
 
 
 
