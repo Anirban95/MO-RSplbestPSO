@@ -6,7 +6,7 @@
 **Title of the Article:** Identification of Biomarkers for Arsenicosis Employing Multiple Kernel Learning Embedded Multi Objective Swarm Intelligence
 - **Authors:** Anirban Dey<sup>1</sup> , Student Member, IEEE, Kaushik Das Sharma<sup>1</sup>  , Senior Member, IEEE, Tamalika Sanyal<sup>2</sup>  , Pritha Bhattacharjee<sup>2</sup>  , Pritha Bhattacharjee (Sr.)<sup>2</sup> 
 - **Affiliations:**  <sup>1</sup> Department of Applied Physics, University of Calcutta; <sup>2</sup> Department of Environmental Science, University of Calcutta 
-- **Submitted to:** [IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)
+- **Submitted to:** [IEEE Transactions on NanoBioscience](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7728)
 - **About the Article:** There are around 30,000 genes in human body out of which only few that gets deferentially expressed when, exposed to any substance causing devlopment of certain disease. Therefore, finding those deferentially expressed genes are very important as well as it is a computationally complex task. In this article, the authors proposed a computationally efficient technique to deal with such problem specifically for arsenicosis. For a more detailed study about the proposed method, please find the paper in this [link](https://github.com/Anirban95/MO-RSplbestPSO)
 
 
