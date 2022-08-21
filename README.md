@@ -7,7 +7,7 @@
 - **Authors:** Anirban Dey<sup>1</sup> , Student Member, IEEE, Kaushik Das Sharma<sup>1</sup>  , Senior Member, IEEE, Tamalika Sanyal<sup>2</sup>  , Pritha Bhattacharjee<sup>2</sup>  , Pritha Bhattacharjee (Sr.)<sup>2</sup> 
 - **Affiliations:**  <sup>1</sup> Department of Applied Physics, University of Calcutta; <sup>2</sup> Department of Environmental Science, University of Calcutta 
 - **Submitted to:** [IEEE Transactions on NanoBioscience](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7728)
-- **About the Article:** There are around 30,000 genes in human body out of which only few that gets deferentially expressed when, exposed to any substance causing devlopment of certain disease. Therefore, finding those deferentially expressed genes are very important as well as it is a computationally complex task. In this article, the authors proposed a computationally efficient technique to deal with such problem specifically for arsenicosis. For a more detailed study about the proposed method, please find the paper in this [link](https://github.com/Anirban95/MO-RSplbestPSO)
+- **About the Article:** There are around 30,000 genes in human body out of which only few that gets deferentially expressed when, exposed to any substance causing devlopment of certain disease. Therefore, finding those deferentially expressed genes are very important as well as it is a computationally complex task. In this article, the authors proposed a computationally efficient technique to deal with such problem specifically for arsenicosis. For a more detailed study about the proposed method, please find the paper in this [link](https://pubmed.ncbi.nlm.nih.gov/35895661/)
 
 
 ## Requirements:
@@ -38,7 +38,7 @@
 
 The proposed schema as discussed in the paper is implemented in Python. This repository contains `.ipynb` (Jupyter Notebok) and `.py` (Python) files which contains modules which are further used to develop the entire schema.   
 
-The details instruction for executing the entire package will be published post acceptence of this article or individuals' may send a request mail to the corresponding author at his official [e-mail](mailto:kdsaphy@caluniv.ac.in); Altough this is strictly for personal use untill not published.  
+The details instruction for executing the entire package will be published post acceptence of this article or individuals' may send a request mail to the corresponding author at his official [e-mail](mailto:kdsaphy@caluniv.ac.in);   
 
 
 
